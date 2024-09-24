@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "miera_website"
+  site-url: "https://Uthallan.github.io/miera_website"
+  description: "A website"
+  repo-branch: main
+  repo-url: "https://github.com/Uthallan/miera_website"
