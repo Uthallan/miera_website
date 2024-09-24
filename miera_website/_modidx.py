@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Uthallan.github.io',
                 'git_url': 'https://github.com/Uthallan/miera_website',
                 'lib_path': 'miera_website'},
-  'syms': {'miera_website.core': {'miera_website.core.foo': ('core.html#foo', 'miera_website/core.py')}}}
+  'syms': {'miera_website.core': {'miera_website.core.LOL': ('core.html#lol', 'miera_website/core.py')}}}
